@@ -9,8 +9,8 @@ keywords:
 description: 
 
 # the base hostname & protocol for your site
-url: "http://mvaneijgen.nl/"
-baseurl: "http://mvaneijgen.nl/"
+url: "http://mvaneijgen.nl/money-around-the-world"
+baseurl: "http://mvaneijgen.nl/money-around-the-world"
 
 twitter_username: mvaneijgen
 github_username:  mvaneijgen
